@@ -16,4 +16,4 @@ This was one of my first hands-on projects in Unity, built while still learning 
 - **Menus & audio** : main menu, scene transitions, music, and sound effects.
 
 ## Tools Used
-Unity, C#
+Unity, C#, Aseprite (all visuals made by me)
